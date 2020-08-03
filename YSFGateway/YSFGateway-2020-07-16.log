@@ -1,0 +1,36 @@
+M: 2020-07-16 16:01:56.364 Opening YSF network connection
+I: 2020-07-16 16:01:56.365 Opening UDP port on 4200
+M: 2020-07-16 16:01:56.365 Opening YSF network connection
+I: 2020-07-16 16:01:56.365 Opening UDP port on 42000
+M: 2020-07-16 16:01:56.365 Resolving FCS00x addresses
+M: 2020-07-16 16:01:56.722 Opening FCS network connection
+I: 2020-07-16 16:01:56.722 Opening UDP port on 42001
+I: 2020-07-16 16:01:56.723 The ID of this repeater is 55717
+I: 2020-07-16 16:01:56.725 Loaded 230 FCS room descriptions
+E: 2020-07-16 16:01:56.765 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-16 16:01:56.768 Loaded 860 YSF reflectors
+I: 2020-07-16 16:01:56.768 Loaded YSF parrot
+I: 2020-07-16 16:01:56.768 Loaded YSF2DMR
+I: 2020-07-16 16:01:56.768 Loaded YSF2NXDN
+I: 2020-07-16 16:01:56.768 Loaded YSF2P25
+M: 2020-07-16 16:01:56.778 Automatic (re-)connection to 32027 - "ES ADER         "
+M: 2020-07-16 16:01:56.778 Starting YSFGateway-20190131
+M: 2020-07-16 16:01:56.819 Linked to ES ADER         
+M: 2020-07-16 16:44:43.294 Opening YSF network connection
+I: 2020-07-16 16:44:43.294 Opening UDP port on 4200
+M: 2020-07-16 16:44:43.294 Opening YSF network connection
+I: 2020-07-16 16:44:43.294 Opening UDP port on 42000
+M: 2020-07-16 16:44:43.294 Resolving FCS00x addresses
+M: 2020-07-16 16:44:43.646 Opening FCS network connection
+I: 2020-07-16 16:44:43.646 Opening UDP port on 42001
+I: 2020-07-16 16:44:43.646 The ID of this repeater is 55717
+I: 2020-07-16 16:44:43.647 Loaded 230 FCS room descriptions
+E: 2020-07-16 16:44:43.669 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-16 16:44:43.671 Loaded 860 YSF reflectors
+I: 2020-07-16 16:44:43.671 Loaded YSF parrot
+I: 2020-07-16 16:44:43.671 Loaded YSF2DMR
+I: 2020-07-16 16:44:43.671 Loaded YSF2NXDN
+I: 2020-07-16 16:44:43.671 Loaded YSF2P25
+M: 2020-07-16 16:44:43.679 Automatic (re-)connection to 32027 - "ES ADER         "
+M: 2020-07-16 16:44:43.679 Starting YSFGateway-20190131
+M: 2020-07-16 16:44:43.720 Linked to ES ADER         

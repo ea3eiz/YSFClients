@@ -1,0 +1,91 @@
+M: 2020-07-12 13:09:16.652 Opening YSF network connection
+I: 2020-07-12 13:09:16.652 Opening UDP port on 4200
+M: 2020-07-12 13:09:16.652 Opening YSF network connection
+I: 2020-07-12 13:09:16.652 Opening UDP port on 42000
+M: 2020-07-12 13:09:16.652 Resolving FCS00x addresses
+M: 2020-07-12 13:09:17.001 Opening FCS network connection
+I: 2020-07-12 13:09:17.001 Opening UDP port on 42001
+I: 2020-07-12 13:09:17.001 The ID of this repeater is 07088
+I: 2020-07-12 13:09:17.001 Loaded 230 FCS room descriptions
+E: 2020-07-12 13:09:17.022 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-12 13:09:17.024 Loaded 860 YSF reflectors
+I: 2020-07-12 13:09:17.024 Loaded YSF parrot
+I: 2020-07-12 13:09:17.024 Loaded YSF2DMR
+I: 2020-07-12 13:09:17.024 Loaded YSF2NXDN
+I: 2020-07-12 13:09:17.024 Loaded YSF2P25
+M: 2020-07-12 13:09:17.032 Automatic (re-)connection to 32027 - "ES ADER         "
+M: 2020-07-12 13:09:17.033 Starting YSFGateway-20190131
+M: 2020-07-12 13:09:17.079 Linked to ES ADER         
+M: 2020-07-12 13:09:45.620 Opening YSF network connection
+I: 2020-07-12 13:09:45.620 Opening UDP port on 4200
+M: 2020-07-12 13:09:45.620 Opening YSF network connection
+I: 2020-07-12 13:09:45.620 Opening UDP port on 42000
+M: 2020-07-12 13:09:45.620 Resolving FCS00x addresses
+M: 2020-07-12 13:09:45.734 Opening FCS network connection
+I: 2020-07-12 13:09:45.734 Opening UDP port on 42001
+I: 2020-07-12 13:09:45.734 The ID of this repeater is 07088
+I: 2020-07-12 13:09:45.734 Loaded 230 FCS room descriptions
+E: 2020-07-12 13:09:45.764 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-12 13:09:45.766 Loaded 860 YSF reflectors
+I: 2020-07-12 13:09:45.766 Loaded YSF parrot
+I: 2020-07-12 13:09:45.766 Loaded YSF2DMR
+I: 2020-07-12 13:09:45.766 Loaded YSF2NXDN
+I: 2020-07-12 13:09:45.766 Loaded YSF2P25
+M: 2020-07-12 13:09:45.774 Automatic (re-)connection to 32027 - "ES ADER         "
+M: 2020-07-12 13:09:45.774 Starting YSFGateway-20190131
+M: 2020-07-12 13:09:45.818 Linked to ES ADER         
+M: 2020-07-12 13:10:03.901 Link successful to MMDVM
+M: 2020-07-12 13:20:35.386 Opening YSF network connection
+I: 2020-07-12 13:20:35.394 Opening UDP port on 4200
+M: 2020-07-12 13:20:35.394 Opening YSF network connection
+I: 2020-07-12 13:20:35.394 Opening UDP port on 42000
+M: 2020-07-12 13:20:35.394 Resolving FCS00x addresses
+M: 2020-07-12 13:20:35.749 Opening FCS network connection
+I: 2020-07-12 13:20:35.749 Opening UDP port on 42001
+I: 2020-07-12 13:20:35.749 The ID of this repeater is 07088
+I: 2020-07-12 13:20:35.751 Loaded 230 FCS room descriptions
+E: 2020-07-12 13:20:35.787 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-12 13:20:35.790 Loaded 860 YSF reflectors
+I: 2020-07-12 13:20:35.790 Loaded YSF parrot
+I: 2020-07-12 13:20:35.790 Loaded YSF2DMR
+I: 2020-07-12 13:20:35.790 Loaded YSF2NXDN
+I: 2020-07-12 13:20:35.790 Loaded YSF2P25
+M: 2020-07-12 13:20:35.805 Automatic (re-)connection to 32027 - "ES ADER         "
+M: 2020-07-12 13:20:35.805 Starting YSFGateway-20190131
+M: 2020-07-12 13:20:35.851 Linked to ES ADER         
+M: 2020-07-12 21:28:23.518 Opening YSF network connection
+I: 2020-07-12 21:28:23.554 Opening UDP port on 4200
+M: 2020-07-12 21:28:23.554 Opening YSF network connection
+I: 2020-07-12 21:28:23.555 Opening UDP port on 42000
+M: 2020-07-12 21:28:23.556 Resolving FCS00x addresses
+M: 2020-07-12 21:28:23.951 Opening FCS network connection
+I: 2020-07-12 21:28:24.001 Opening UDP port on 42001
+I: 2020-07-12 21:28:24.001 The ID of this repeater is 07088
+I: 2020-07-12 21:28:24.013 Loaded 230 FCS room descriptions
+E: 2020-07-12 21:28:24.107 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-12 21:28:24.143 Loaded 860 YSF reflectors
+I: 2020-07-12 21:28:24.144 Loaded YSF parrot
+I: 2020-07-12 21:28:24.144 Loaded YSF2DMR
+I: 2020-07-12 21:28:24.144 Loaded YSF2NXDN
+I: 2020-07-12 21:28:24.144 Loaded YSF2P25
+M: 2020-07-12 21:28:24.238 Automatic (re-)connection to 32027 - "ES ADER         "
+M: 2020-07-12 21:28:24.239 Starting YSFGateway-20190131
+M: 2020-07-12 21:28:24.283 Linked to ES ADER         
+M: 2020-07-12 21:39:41.904 Opening YSF network connection
+I: 2020-07-12 21:39:41.920 Opening UDP port on 4200
+M: 2020-07-12 21:39:41.920 Opening YSF network connection
+I: 2020-07-12 21:39:41.920 Opening UDP port on 42000
+M: 2020-07-12 21:39:41.920 Resolving FCS00x addresses
+M: 2020-07-12 21:39:42.284 Opening FCS network connection
+I: 2020-07-12 21:39:42.285 Opening UDP port on 42001
+I: 2020-07-12 21:39:42.285 The ID of this repeater is 07088
+I: 2020-07-12 21:39:42.299 Loaded 230 FCS room descriptions
+E: 2020-07-12 21:39:42.387 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-12 21:39:42.396 Loaded 860 YSF reflectors
+I: 2020-07-12 21:39:42.396 Loaded YSF parrot
+I: 2020-07-12 21:39:42.396 Loaded YSF2DMR
+I: 2020-07-12 21:39:42.396 Loaded YSF2NXDN
+I: 2020-07-12 21:39:42.396 Loaded YSF2P25
+M: 2020-07-12 21:39:42.442 Automatic (re-)connection to 32027 - "ES ADER         "
+M: 2020-07-12 21:39:42.442 Starting YSFGateway-20190131
+M: 2020-07-12 21:39:42.489 Linked to ES ADER         

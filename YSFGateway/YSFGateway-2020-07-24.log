@@ -1,0 +1,102 @@
+M: 2020-07-24 08:03:47.777 Opening YSF network connection
+I: 2020-07-24 08:03:47.777 Opening UDP port on 4200
+M: 2020-07-24 08:03:47.777 Opening YSF network connection
+I: 2020-07-24 08:03:47.777 Opening UDP port on 42000
+M: 2020-07-24 08:03:47.777 Resolving FCS00x addresses
+M: 2020-07-24 08:03:48.176 Opening FCS network connection
+I: 2020-07-24 08:03:48.177 Opening UDP port on 42001
+I: 2020-07-24 08:03:48.177 The ID of this repeater is 55717
+I: 2020-07-24 08:03:48.180 Loaded 230 FCS room descriptions
+E: 2020-07-24 08:03:48.264 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-24 08:03:48.266 Loaded 860 YSF reflectors
+I: 2020-07-24 08:03:48.266 Loaded YSF parrot
+I: 2020-07-24 08:03:48.266 Loaded YSF2DMR
+I: 2020-07-24 08:03:48.266 Loaded YSF2NXDN
+I: 2020-07-24 08:03:48.266 Loaded YSF2P25
+M: 2020-07-24 08:03:48.273 Automatic (re-)connection to 32027 - "ES ADER         "
+M: 2020-07-24 08:03:48.273 Starting YSFGateway-20190131
+M: 2020-07-24 08:03:48.313 Linked to ES ADER         
+E: 2020-07-24 09:03:50.511 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-24 09:03:50.515 Loaded 860 YSF reflectors
+I: 2020-07-24 09:03:50.515 Loaded YSF parrot
+I: 2020-07-24 09:03:50.515 Loaded YSF2DMR
+I: 2020-07-24 09:03:50.515 Loaded YSF2NXDN
+I: 2020-07-24 09:03:50.515 Loaded YSF2P25
+E: 2020-07-24 10:03:52.671 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-24 10:03:52.675 Loaded 860 YSF reflectors
+I: 2020-07-24 10:03:52.675 Loaded YSF parrot
+I: 2020-07-24 10:03:52.675 Loaded YSF2DMR
+I: 2020-07-24 10:03:52.675 Loaded YSF2NXDN
+I: 2020-07-24 10:03:52.675 Loaded YSF2P25
+E: 2020-07-24 11:03:54.744 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-24 11:03:54.749 Loaded 860 YSF reflectors
+I: 2020-07-24 11:03:54.749 Loaded YSF parrot
+I: 2020-07-24 11:03:54.749 Loaded YSF2DMR
+I: 2020-07-24 11:03:54.749 Loaded YSF2NXDN
+I: 2020-07-24 11:03:54.749 Loaded YSF2P25
+E: 2020-07-24 12:03:56.983 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-24 12:03:56.987 Loaded 860 YSF reflectors
+I: 2020-07-24 12:03:56.987 Loaded YSF parrot
+I: 2020-07-24 12:03:56.987 Loaded YSF2DMR
+I: 2020-07-24 12:03:56.987 Loaded YSF2NXDN
+I: 2020-07-24 12:03:56.987 Loaded YSF2P25
+E: 2020-07-24 13:03:59.127 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-24 13:03:59.130 Loaded 860 YSF reflectors
+I: 2020-07-24 13:03:59.131 Loaded YSF parrot
+I: 2020-07-24 13:03:59.131 Loaded YSF2DMR
+I: 2020-07-24 13:03:59.131 Loaded YSF2NXDN
+I: 2020-07-24 13:03:59.131 Loaded YSF2P25
+E: 2020-07-24 14:04:01.221 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-24 14:04:01.225 Loaded 860 YSF reflectors
+I: 2020-07-24 14:04:01.225 Loaded YSF parrot
+I: 2020-07-24 14:04:01.225 Loaded YSF2DMR
+I: 2020-07-24 14:04:01.225 Loaded YSF2NXDN
+I: 2020-07-24 14:04:01.225 Loaded YSF2P25
+E: 2020-07-24 15:04:03.506 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-24 15:04:03.510 Loaded 860 YSF reflectors
+I: 2020-07-24 15:04:03.510 Loaded YSF parrot
+I: 2020-07-24 15:04:03.510 Loaded YSF2DMR
+I: 2020-07-24 15:04:03.510 Loaded YSF2NXDN
+I: 2020-07-24 15:04:03.510 Loaded YSF2P25
+E: 2020-07-24 16:04:05.713 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-24 16:04:05.717 Loaded 860 YSF reflectors
+I: 2020-07-24 16:04:05.717 Loaded YSF parrot
+I: 2020-07-24 16:04:05.717 Loaded YSF2DMR
+I: 2020-07-24 16:04:05.717 Loaded YSF2NXDN
+I: 2020-07-24 16:04:05.717 Loaded YSF2P25
+E: 2020-07-24 17:04:07.862 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-24 17:04:07.865 Loaded 860 YSF reflectors
+I: 2020-07-24 17:04:07.865 Loaded YSF parrot
+I: 2020-07-24 17:04:07.865 Loaded YSF2DMR
+I: 2020-07-24 17:04:07.865 Loaded YSF2NXDN
+I: 2020-07-24 17:04:07.865 Loaded YSF2P25
+E: 2020-07-24 18:04:10.042 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-24 18:04:10.045 Loaded 860 YSF reflectors
+I: 2020-07-24 18:04:10.045 Loaded YSF parrot
+I: 2020-07-24 18:04:10.045 Loaded YSF2DMR
+I: 2020-07-24 18:04:10.045 Loaded YSF2NXDN
+I: 2020-07-24 18:04:10.045 Loaded YSF2P25
+E: 2020-07-24 19:04:12.184 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-24 19:04:12.188 Loaded 860 YSF reflectors
+I: 2020-07-24 19:04:12.188 Loaded YSF parrot
+I: 2020-07-24 19:04:12.188 Loaded YSF2DMR
+I: 2020-07-24 19:04:12.188 Loaded YSF2NXDN
+I: 2020-07-24 19:04:12.188 Loaded YSF2P25
+E: 2020-07-24 20:04:14.355 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-24 20:04:14.358 Loaded 860 YSF reflectors
+I: 2020-07-24 20:04:14.358 Loaded YSF parrot
+I: 2020-07-24 20:04:14.358 Loaded YSF2DMR
+I: 2020-07-24 20:04:14.358 Loaded YSF2NXDN
+I: 2020-07-24 20:04:14.358 Loaded YSF2P25
+E: 2020-07-24 21:04:16.432 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-24 21:04:16.436 Loaded 860 YSF reflectors
+I: 2020-07-24 21:04:16.436 Loaded YSF parrot
+I: 2020-07-24 21:04:16.436 Loaded YSF2DMR
+I: 2020-07-24 21:04:16.436 Loaded YSF2NXDN
+I: 2020-07-24 21:04:16.436 Loaded YSF2P25
+E: 2020-07-24 22:04:18.657 Cannot find address for host fusion2.m1axm.co.uk
+I: 2020-07-24 22:04:18.659 Loaded 860 YSF reflectors
+I: 2020-07-24 22:04:18.659 Loaded YSF parrot
+I: 2020-07-24 22:04:18.659 Loaded YSF2DMR
+I: 2020-07-24 22:04:18.659 Loaded YSF2NXDN
+I: 2020-07-24 22:04:18.659 Loaded YSF2P25
