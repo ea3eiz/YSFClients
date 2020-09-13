@@ -206,7 +206,7 @@ int CYSFGateway::run()
 		unsigned int txFrequency = m_conf.getTxFrequency();
 		unsigned int rxFrequency = m_conf.getRxFrequency();
 		std::string locator = calculateLocator();
-		std::string name = m_conf.getName();
+		std::string name = "IMAGEN ADER";
 		unsigned int id = m_conf.getId();
 
 		unsigned int ysfPort = m_conf.getYSFNetworkPort();
